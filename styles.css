@@ -1,0 +1,12 @@
+video#camera-live {
+  background-color: black;
+    display: none;
+}
+
+canvas#hidden-canvas {
+  display: none;
+}
+
+canvas#output-canvas {
+  background-color: black;
+}
